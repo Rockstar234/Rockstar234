@@ -1,8 +1,6 @@
 <h1 align="center">
   🐉 prettyleaf / intermediate dev x devops</h1>
 <h3 align="center">
-I do stuff for my own, I like making things easier.<br><br>
-18th of April, 2005.<br><br>
 
 [@TeamDominant](https://github.com/TeamDominant) Founder.<br><br>
 [TUSUR IT Labs / ТУСУР ИТ Лабораторные работы 1 курс](<https://github.com/prettyleaf/IT-Labs>)<br><br>
